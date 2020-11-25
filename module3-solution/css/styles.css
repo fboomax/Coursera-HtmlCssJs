@@ -1,0 +1,43 @@
+.navbar-brand h1 {
+  color: #1ab6a6;
+  font-size: 1.5em;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: 0.75;
+}
+
+#header-nav {
+  background-color: #222;
+}
+#nav-list {
+  background-color: #30e454;
+}
+
+#main-content {
+  height: 1000px;
+  background-color: #ffffff;
+}
+
+section {
+  text-align: center;
+  padding: 20px;
+  margin: 20px 0px 20px 0px;
+  border: 3px solid;
+}
+
+section span {
+  font-size: 1.1em;
+  font-weight: 600;
+}
+section p {
+  text-align: justify;
+}
+
+#sec-sushi,
+#sec-chicken,
+#sec-beef {
+  background-color: cornflowerblue;
+}
